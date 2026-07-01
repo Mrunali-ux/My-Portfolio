@@ -19,3 +19,9 @@ p{
 .about-content p{
     color: #94A3B8;
 }
+#skills h2,h3 {
+    color:  #F8FAFC;
+}
+#skills ul li{
+    color: #94A3B8;
+}
